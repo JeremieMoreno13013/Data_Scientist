@@ -1,0 +1,167 @@
+handles = ["@jcunniet","@PaulLampon","@Aziliz31","@ssoumier","@marionsouzeau","@gaellombart","@bendarag","@AurelieLebelle","@julienduffe","@thomaspoupeau","@LilyRossignol","@ClairGuedon","@stephanieauguy","@claw_prolongeau","@_JulieMenard","@LColcomb","@Zlauwereys","@MeLonguet","@DorotheeLN","@NolwennCosson","@ADaboval","@Remibaldy","@bderveaux","@amandechap","@ELODIESOULIE","@nbongarcon","@HeloAb","@Panamorama","@gregplou","@BenoitBerthe","@LauraBruneau89","@Anthony_Lieures","@Sharonwaj","@mcsonkin","@pverduzier","@emiliel3","@Julien_MARION","@SophiFay","@bdelombre","@annalecerf","@AdriaBudry","@DejNikolic","@iJaffre","@CyrusleVirus","@GPardigon","@e_vallerey","@IsabelleSouquet","@AudeDavidRossi","@Yoann_Pa","@CeliaPenavaire","@perraultvincent","@cboulate","@JustineWeyl","@Paulinejacot","@juliechab","@aslechevallier","@phnou","@Seb_Pommier","@Alex_Bensaid","@GuillaumeGaven","@annelaurechouin","@Oliviader","@guerricp","@JMMarchaut","@cyceron","@gregory_raymond","@vhunsinger","@l_peillon","@fannyguinochet","@EAssayag","@KibweAdom","@YvonHerry","@JohanGarciajg","@saidlabidi","@lauranneprov","@LeaDavy","@francois_remy","@CGuicheteau","@FloMaillet","@m_perroud","@oBrunet_TSMF","@MoonVdc","@jc2taille","@NellyMoussu","@VirginK","@b_misa","@FabriceCouste","@barbara_prose","@lelia2m","@brunoaskenazi","@laurenechamp","@ysisbox","@juliengagliardi","@PierreLel","@kdeniau","@_TerraInc","@DominicArpin","@antoinfonteneau","@nanotousch","@jb_roch","@YaniKhezzar","@Anne_Bechet","@NCapart","@SamyBenNaceur","@Joumany","@Julietteraynal","@TGiraudet","@SaraTanit","@HappeFrederic","@antoinellorca","@michelpicot","@Sev_Ryne","@bobdobolino","@murdever","@YGrandmontagne","@Mnyo","@EdKOSCIANSKI","@tnoisette","@jankari","@delbello_rom","@rflechaux","@NadiaSorelli","@IT_Digital","@abarbaux","@PhilippeLeroy","@schaptal","@marionspee","@lisavignoli","@ChloeAeberhardt","@MartineJacot","@JuliaPascualita","@curieusedetout","@sgraveleau","@bif_o","@ElisaPineau","@zinebdryef","@apiquard","@pierrehaski","@StephanieDelmas","@Blandine_Garot","@vergara_i","@evan_lebastard","@SophieVclt","@OlivierLevrault","@alicedorgeval","@LouiseMalnoy","@alix_fx","@pierre_baudis","@LucMagoutier","@AgatheMuller","@SGianninelli","@PaulineBoyer33","@NaomiHalll","@romaindlx","@marionbr","@Burtschy","@JacobEtienne","@as_lizzani","@marie_simon","@LaureDaussy","@FabriceAmedeo","@min","@LoubnaChlaikhy","@PlummerWilliam","@OlivierMarin1","@alaurefremont","@mwesfreid","@ChBaDe","@pmathon","@theobaldmarie","@Lnpagesy","@marclandre","@paoliniesther","@Feertchak","@JBLitzler","@GuillaumeErrard","@quentinperinel","@TristanQM","@mlbo","@constancejamet","@LoraTerrazas","@emiliegeffray","@Mathilde_Sd","@CaroPiquet","@DCanivez","@TIM_7375","@blandinelc","@ivanrioufol","@arthurberdah","@SarahLecoeuvre","@guillaume_gui","@DamienMercereau","@W_Chloe","@Assma_MD","@EugenieBastie","@HiTech_lexpress","@bcondominas","@Laurie_Z_","@jeanfrancgerard","@MathieuPagura","@BGUYF","@AlainPiffaretti","@AudreyKucinskas","@julienhory","@Pierrefalga","@TiphThuillier","@cdaniez","@LigerBaptiste","@D_Peras","@julie_dlb","@Fatiha_Temmouri","@julian2lamancha","@GaetaneDeljurie","@JulianMattei","@M_Vicuna","@DeBruynOlivier","@Nehed_Jendoubi","@antoine_grenapi","@ColonnaGen","@VictoriaGairin","@Clement_Lacombe","@TVigoureux","@MargauxObriot","@solinedelos","@RocheSabine","@dangerkens","@EdouardDutour","@MDondeyne","@DupuisNathalie1","@bouscarel","@Mathieu2jean","@Sophie_T_J","@laurentcalixte","@patrockwilliams","@PascaleKremer","@AlexJaquin","@LauraIsaaz","@cath_robin","@Del_Gautherin","@Isaduriez","@lucietuile","@AugeyBastien","@mcastagnet","@AminaKalache","@mvaudano","@CParrot","@ombelinetips","@_JoinLion","@BarbolosiRose","@ToiBruno1","@FloraClodic","@xjbdx","@ceci_est_un_handle_vraiment_long","@AlexiaEy","@Emjy_STARK","@elcoco01","@rabilebon","@pflovens_","@FabriceFrossard","@MorganeSERRES","@MarjolaineKoch","@edgarsnow","@SRNLF","@CChassigneux","@KerinecMoran","@NassiraELM","@NewsRicard","@Sandreene","@Emilezrt","@Pierre_Do","@Micode","@CColumelli","@DavidAbiker","@ClementBergantz","@benjaminrabier","@celinekallmann","@edwyplenel","@C_Barbier","@JJBourdin_RMC","@LaurenceFerrari","@aslapix","@IsaMillet","@MaximeSwitek","@tomjoubert","@jszanchi","@roqueeva","@XavierBiseul","@florencesantrot","@AntoineCrochet","@freeman59","@MaudeML","@philippe_gulpi","@mathieum76","@kiouari","@imanemoustakir","@BenedicteMallet","@Emilie_Brouze","@antoinebarret","@_nicolasbocquet","@remibuhagiar","@CourretB","@AymericRobert","@miraelmartins","@pmaniere","@jesuisraphk","@David_Ingram","@pcelerier","@technomedia","@Geraldinedauver","@ThierryLabro","@Newsdusud","@nrauline","@gbregeras","@SCouasnonBFM","@actualites_nrv","@dimitrimoulins","@oli_aura","@FabieChiche","@Vincent_Raimblt","@ChristophGreuet","@PAlbuchay","@MarrauddesGrot","@vtalmon","@cedric","@olivierfrigara","@Julien_Jay","@LydiaBerroyer","@Shuua","@datisdaz","@Steuph","@ameliecharnay","@Bruno_LesNums","@LelloucheNico","@CciliaDiQuinzio","@Elodie_C","@SylvRolland","@Kocobe","@FL_Debes","@jdupontcalbo","@GarciaVictor_","@NicoRichaud","@RHoueix","@simottel","@DamienLicata","@annabelle_L","@Lea_Lejeune","@axel_deb","@marin_eben","@ptiberry","@MatthieuDelach","@sandrinecassini","@benjaminferran","@ppgarcia75","@NotPatrick","@ivalerio","@FabienneSchmitt","@alexgoude","@JeromeColombain","@manhack","@Capucine_Cousin","@Fsorel","@oliviertesquet","@marjoriepaillon","@ginades","@PierreTran","@DelphineCuny","@reesmarc","@lauratenoudji","@ldupin","@carolinedescham","@Lucile_Quillet","@cgabizon","@Allocab","@epenser","@JAGventeprivee","@frwrds","@Laure__Bourdon","@Xavier75","@maximeverner","@s_jourdain","@LoriHelloc"]
+
+def how_many(array)
+    puts "Voici le nombre de handles dans cet array et maintenant laisse-moi tranquille !"
+    puts array.length
+end
+
+def count_caracter(word)
+     word_length = word.length - 1
+end
+
+def compare_word_length(word_length, second_word_length, word, second_word)
+    if word_length < second_word_length
+        return word
+    else
+        return second_word
+    end
+end
+
+def shortest(array)
+    puts "Tiens ! Le voilà le plus court !"
+
+    shortest_word_length = array[0].length - 1
+    shortest_word = array[0] 
+
+    array.each do |handle|
+        word_length = count_caracter(handle)
+        shortest_word = compare_word_length(word_length, shortest_word_length, handle, shortest_word)
+        shortest_word_length = count_caracter(shortest_word)
+    end
+
+    puts shortest_word
+end
+
+def is_length_5(word, count)
+    if (word.length - 1) == 5
+        return (count + 1)
+    else
+        return count
+    end
+end
+
+def how_many_5(array)
+    puts "J'ai vraiment que ça à faire en fait ?"
+    puts "Voilà le nombre de handles qui contiennent 5 caractères !"
+
+    count = 0
+
+    array.each do |handle|
+        count = is_length_5(handle, count)
+    end
+
+    puts count
+    puts "T'en fais pas j'ai bien pensé à ne pas compter le @ ;)"
+end
+
+def is_uppercase(word, count)
+    if word[1] == word[1].upcase && word[1] =~ /[[:alpha:]]/
+        return (count + 1)
+    else
+        return count
+    end
+end
+
+def how_many_uppercase(array)
+    puts "Par une majuscule ? Vraiment ? Ça change quoi pour toi ?"
+
+    count = 0
+
+    array.each do |handle|
+        count = is_uppercase(handle, count)
+    end
+
+    puts count
+end
+
+def sort_alphabetical(array)
+    puts "Voici la liste par ordre alphabétique !"
+
+    alphabetical_array = array.sort_by! {|element| element.downcase }
+
+    puts alphabetical_array
+    puts "Je suis trop fort, non ?"
+end
+
+def sort_ascending(array)
+    puts "Allez hop ! Les petits devant et les grands derrière"
+    ascending_array = array.sort_by! {|element| element.size }
+
+    puts ascending_array
+end
+
+def find_epenser(array)
+    handle_epenser_index = array.rindex("@epenser")
+
+    puts "Il est caché à la position #{handle_epenser_index}"
+end
+
+def check_size(word, size)
+    if size == word.size
+        return size
+    else
+        puts "C'était le dernier de la taille #{size}"
+        return word.size
+    end
+end
+
+def sort_by_number_caracter(array)
+    puts "Ok ! Mon préféré ! <Craque ses doigts>"
+
+    list_array_by_size = array.sort_by! {|element| element.size}
+    size = list_array_by_size[0].length
+
+    list_array_by_size.each do |handle|
+        size = check_size(handle, size)
+        puts handle
+    end
+
+    puts "C'était le dernier de la taille #{size}"
+    puts "Et voilà le travail !"
+end
+
+def choice_made(number, array)
+    if number == 1
+        how_many(array)
+    elsif number == 2
+        shortest(array)
+    elsif number == 3
+        how_many_5(array)
+    elsif number == 4
+        how_many_uppercase(array)
+    elsif number == 5
+        sort_alphabetical(array)
+    elsif number == 6
+        sort_ascending(array)
+    elsif number == 7
+        find_epenser(array)
+    elsif number == 8
+        sort_by_number_caracter(array)
+    else
+        puts "Heureusement qu'il faut juste choisir un nombre entre 1 et 8 seulement !"
+        menu(array)
+    end
+end
+
+def menu(array)
+    puts "Salut tu peux t'amuser avec moi si tu veux mais te sens pas obligé(e) !"
+    puts "J'ai plein de comptes twitter avec lesquels jouer  ;)\n \n \n"
+    puts "> Tape 1 pour savoir combien il y a de comptes"
+    puts "> Tape 2 pour savoir quel est le compte le plus court"
+    puts "> Tape 3 pour savoir combien il y a de comptes qui ont 5 caractères"
+    puts "> Tape 4 pour savoir combien de comptes commencent par une majuscule"
+    puts "> Tape 5 pour voir les comptes triés par ordre alphabétique"
+    puts "> Tape 6 pour voir les comptes triés de celui qui a le moins de caractères à celui qui en a le plus"
+    puts "> Tape 7 pour voir en quelle position se situe le compte @epenser"
+    puts "> Tape 8 pour voir les comptes répartis par taille de caractère"
+
+    choice = gets.chomp.to_i
+    choice_made(choice, array)
+end
+
+def perform(array)
+   menu(array)
+end
+
+
+perform(handles)
