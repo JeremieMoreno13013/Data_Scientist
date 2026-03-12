@@ -139,13 +139,15 @@ def choice_made(number, array)
         sort_by_number_caracter(array)
     else
         puts "Heureusement qu'il faut juste choisir un nombre entre 1 et 8 seulement !"
+        puts "-" * 20
         menu(array)
     end
 end
 
 def menu(array)
     puts "Salut tu peux t'amuser avec moi si tu veux mais te sens pas obligé(e) !"
-    puts "J'ai plein de comptes twitter avec lesquels jouer  ;)\n \n \n"
+    puts "J'ai plein de comptes twitter avec lesquels jouer  ;)"
+    puts "-" * 50
     puts "> Tape 1 pour savoir combien il y a de comptes"
     puts "> Tape 2 pour savoir quel est le compte le plus court"
     puts "> Tape 3 pour savoir combien il y a de comptes qui ont 5 caractères"
